@@ -33,3 +33,12 @@ sudo apt install apcalc
 # neon wallet
 wget https://github.com/CityOfZion/neon-wallet/releases/download/0.2.5/Neon-0.2.5_amd64.Linux.deb
 sudo gdebi Neon-0.2.5_amd64.Linux.deb
+
+
+# c++
+sudo apt install g++
+
+
+sudo apt-get install python-dev python3-dev
+sudo apt-get install libevent-dev
+sudo apt-get install build-essential
