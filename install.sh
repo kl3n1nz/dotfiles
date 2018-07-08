@@ -5,6 +5,7 @@ sudo apt install tmux
 
 sudo snap install htop
 
+sudo apt install curl
 sudo apt install vlc
 
 sudo apt install tlp tlp-rdw
